@@ -1,6 +1,6 @@
 # Image Augmentation
 
-[For full details]()
+[For full details](https://github.com/leonfdo/Image_augmentation/blob/main/Tasks.pdf)
 
 In this code we pay a special attention how intensity transformation and neighborhood filtering was done and how it change the nature of the images. 
 
